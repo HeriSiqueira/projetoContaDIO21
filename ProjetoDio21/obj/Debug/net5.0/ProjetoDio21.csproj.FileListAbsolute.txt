@@ -1,0 +1,16 @@
+C:\ws-vs2019.2021\ProjetoDio21\ProjetoDio21\bin\Debug\net5.0\ProjetoDio21.exe
+C:\ws-vs2019.2021\ProjetoDio21\ProjetoDio21\bin\Debug\net5.0\ProjetoDio21.deps.json
+C:\ws-vs2019.2021\ProjetoDio21\ProjetoDio21\bin\Debug\net5.0\ProjetoDio21.runtimeconfig.json
+C:\ws-vs2019.2021\ProjetoDio21\ProjetoDio21\bin\Debug\net5.0\ProjetoDio21.runtimeconfig.dev.json
+C:\ws-vs2019.2021\ProjetoDio21\ProjetoDio21\bin\Debug\net5.0\ProjetoDio21.dll
+C:\ws-vs2019.2021\ProjetoDio21\ProjetoDio21\bin\Debug\net5.0\ref\ProjetoDio21.dll
+C:\ws-vs2019.2021\ProjetoDio21\ProjetoDio21\bin\Debug\net5.0\ProjetoDio21.pdb
+C:\ws-vs2019.2021\ProjetoDio21\ProjetoDio21\obj\Debug\net5.0\ProjetoDio21.csproj.AssemblyReference.cache
+C:\ws-vs2019.2021\ProjetoDio21\ProjetoDio21\obj\Debug\net5.0\ProjetoDio21.GeneratedMSBuildEditorConfig.editorconfig
+C:\ws-vs2019.2021\ProjetoDio21\ProjetoDio21\obj\Debug\net5.0\ProjetoDio21.AssemblyInfoInputs.cache
+C:\ws-vs2019.2021\ProjetoDio21\ProjetoDio21\obj\Debug\net5.0\ProjetoDio21.AssemblyInfo.cs
+C:\ws-vs2019.2021\ProjetoDio21\ProjetoDio21\obj\Debug\net5.0\ProjetoDio21.csproj.CoreCompileInputs.cache
+C:\ws-vs2019.2021\ProjetoDio21\ProjetoDio21\obj\Debug\net5.0\ProjetoDio21.dll
+C:\ws-vs2019.2021\ProjetoDio21\ProjetoDio21\obj\Debug\net5.0\ref\ProjetoDio21.dll
+C:\ws-vs2019.2021\ProjetoDio21\ProjetoDio21\obj\Debug\net5.0\ProjetoDio21.pdb
+C:\ws-vs2019.2021\ProjetoDio21\ProjetoDio21\obj\Debug\net5.0\ProjetoDio21.genruntimeconfig.cache
