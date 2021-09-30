@@ -25,7 +25,7 @@ namespace ProjetoDio21.Entities.Enums
                        InserirConta();
                         break;
                     case "3":
-                        //Tranferir();
+                        Tranferir();
                         break;
                     case "4":
                         Sacar();
